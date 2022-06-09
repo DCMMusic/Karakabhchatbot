@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/YukkiChatBot >.
+# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/karabakhchatBot >.
 #
-# This file is part of < https://github.com/TeamYukki/YukkiChatBot > project,
+# This file is part of < https://github.com/DCMMusic/KarabakhChatBot > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiChatBot/blob/master/LICENSE >
+# Please see < https://github.com/DCMMusic/karabakhChatBot/blob/master/LICENSE >
 #
 # All rights reserved.
 #
@@ -306,7 +306,7 @@ async def init():
                     "Failed to send the message, User might have blocked the bot or something wrong happened. Please check logs"
                 )
 
-    print("[LOG] - Yukki Chat Bot Started")
+    print("[LOG] - Karabakh Chat Bot Started")
     await idle()
 
 
