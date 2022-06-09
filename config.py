@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/YukkiChatBot >.
+# Copyright (C) 2021-2022 by DCMMusic@Github, < https://github.com/KarabakhChatBot >.
 #
-# This file is part of < https://github.com/TeamYukki/YukkiChatBot > project,
+# This file is part of < https://github.com/DCMMusic/KarabakhChatBot > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiChatBot/blob/master/LICENSE >
+# Please see < https://github.com/DCMMusic/KarabakhChatBot/blob/master/LICENSE >
 #
 # All rights reserved.
 #
